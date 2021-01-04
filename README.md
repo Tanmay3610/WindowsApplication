@@ -17,3 +17,5 @@ Steps To run the Project:
 2) Then run "react-native run-windows"
 
 Note: It will take some time to build at first.
+
+By: Tanmay Agarwal
