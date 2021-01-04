@@ -2,7 +2,11 @@
 
 Project Description:
 
-This Project is a Windows Standalone Application written in React Native and it helps you to get the medicinal salts corresponding to the disease you will enter in it.
+This Project is a Windows Standalone Application written in React Native and it helps you to get the medicinal salts corresponding to the disease user will enter in it.
+
+Pre-requisite:
+
+1) Open debugger mode of your Windows Machine.
 
 This is standalone Windows Application.
 
